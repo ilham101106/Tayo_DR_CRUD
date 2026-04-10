@@ -167,7 +167,7 @@ namespace CRUDMahasiswaADO
                 if (conn.State == System.Data.ConnectionState.Closed)
                 {
                     conn.Open();
-                }
+                } 
 
                 DialogResult resultConfirm = MessageBox.Show(
                     "Yakin ingin menghapus data?",
