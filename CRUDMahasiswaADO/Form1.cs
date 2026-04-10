@@ -294,7 +294,7 @@ namespace CRUDMahasiswaADO
                 MessageBox.Show("Gagal menampilkan data: " + ex.Message);
             }
         }
-
+         
         
     } 
 }
