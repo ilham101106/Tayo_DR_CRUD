@@ -1,0 +1,5 @@
+C:\MATKUL SEMESTER 4\PABD\CRUDMahasiswaADO\CRUDMahasiswaADO\obj\Debug\CRUDMahasiswaADO.csproj.AssemblyReference.cache
+C:\MATKUL SEMESTER 4\PABD\CRUDMahasiswaADO\CRUDMahasiswaADO\obj\Debug\CRUDMahasiswaADO.Form1.resources
+C:\MATKUL SEMESTER 4\PABD\CRUDMahasiswaADO\CRUDMahasiswaADO\obj\Debug\CRUDMahasiswaADO.Properties.Resources.resources
+C:\MATKUL SEMESTER 4\PABD\CRUDMahasiswaADO\CRUDMahasiswaADO\obj\Debug\CRUDMahasiswaADO.csproj.GenerateResource.cache
+C:\MATKUL SEMESTER 4\PABD\CRUDMahasiswaADO\CRUDMahasiswaADO\obj\Debug\CRUDMahasiswaADO.csproj.CoreCompileInputs.cache
