@@ -1,5 +1,10 @@
 # CRUDMahasiswaADO
 
+# CRUD Mahasiswa ADO - Activity 11
+
+## Video Instalasi Aplikasi & Video Demo Aplikasi
+https://drive.google.com/file/d/1PZulum3DmJvlbrCUIiXzVcpi_7uhstw5/view?usp=sharing
+
 Aplikasi CRUD Data Mahasiswa menggunakan C# WinForms dan ADO.NET, dibuat sebagai tugas praktikum Pengembangan Aplikasi Basisdata.
 
 ## Fitur
